@@ -19,6 +19,6 @@ The main objective of this project is to explore and visualize the geographic sp
 - GitHub Pages: For hosting and deploying the project.
 
 # Future Enhancements
--Adding more locations and art forms from different regions of India.
--Integrating a timeline to visualize the evolution of art styles over centuries.
--Incorporating more interactive elements such as filtering by art style or period.
+- Adding more locations and art forms from different regions of India.
+- Integrating a timeline to visualize the evolution of art styles over centuries.
+- Incorporating more interactive elements such as filtering by art style or period.
